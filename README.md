@@ -11,3 +11,5 @@ The task text will be crossed out to indicate completion.
 3-Delete a Task:
 You can delete a task at any time, whether it's completed (checked) or not.
 Click on the Delete button next to the task to remove it from the list.
+
+Note: i made it by Javascript, CSS and HTML. 
